@@ -1,0 +1,13 @@
+# Compiled application and object files
+*.exe
+*.o
+*.obj
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Runtime data (keep directory, ignore generated records)
+data/*.txt
+data/*.bak
+!data/.gitkeep
